@@ -1,0 +1,2 @@
+# An-Interactive-Complaint-Register-and-Appraisal-Management-System
+An Interactive Complaint Register and Appraisal Management System, send complaints or results to lecturers  student can vote for their lecturers to appraise them  Admin can create polls, lecturer profiles etc  Student can visit lecturer profiles to vote  Lecturer is notified of complains on their units  lecturer can respond to complains to their units  passwords and database files in the zip
