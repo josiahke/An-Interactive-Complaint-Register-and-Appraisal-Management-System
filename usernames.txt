@@ -1,0 +1,5 @@
+admin : 456456 - Admin login
+
+bis/20003/82/df : 456456 -> student login
+
+lecturer username is determined by admin but default password is 456456
